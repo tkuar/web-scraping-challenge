@@ -9,5 +9,5 @@ Run the file _"mission_to_mars.ipynb"_ in **Mission_to_Mars** folder to view ini
 #### Summary
 **Creating a _"new "_ HTML page** that displays all of the information that was scraped from the URLs above by using **MongoDB with Flask templating**.
 ### How to Run
-Run the file _"app.py"_ in **Mission_to_Mars** folder to veiw HTML page with scraped data
+Run the file _"app.py"_ in **Mission_to_Mars** folder to view HTML page with scraped data
 * Note: The only purpose of  _"scrape_mars.py"_ is to hold the `scrape()` function
